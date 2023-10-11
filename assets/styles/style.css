@@ -68,10 +68,10 @@
   height: 100vh;
   position: relative;
 }
-/* .image-wrapper-main {
-    
+.image-wrapper-main {
+    height: 70vh;
     position: relative;
-} */
+}
 .text-wrapper {
     height: 30vh;
     width: 100%;
@@ -81,7 +81,7 @@
     flex-direction: column;
 }
 .image-wrapper {
-    /* position: absolute; */
+    position: absolute;
     width: 100%;
     display: flex;
     justify-content: center;
